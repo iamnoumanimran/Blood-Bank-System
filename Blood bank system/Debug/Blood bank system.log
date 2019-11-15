@@ -1,0 +1,22 @@
+﻿Build started 12/21/2018 12:00:54 PM.
+     1>Project "C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Blood bank system\Blood bank system.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Debug\Blood bank system.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Bloodbank.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Blood.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.BloodbankManager.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Donation.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Employee.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.form1.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Hospital.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.MenuOptions.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Orders.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Person.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Receptionist.resources /ASSEMBLYRESOURCE:Debug\Bloodbanksystem.Welcome.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Debug\Blood bank system.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Debug\Blood bank.obj"
+         Debug\Blood.obj
+         Debug\BloodbankManager.obj
+         Debug\Donation.obj
+         Debug\Employee.obj
+         Debug\form1.obj
+         Debug\Hospital.obj
+         Debug\MenuOptions.obj
+         Debug\Orders.obj
+         Debug\Person.obj
+         Debug\Receptionist.obj
+         Debug\Welcome.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Blood bank system.vcxproj -> C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Debug\Blood bank system.exe
+     1>Done Building Project "C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Blood bank system\Blood bank system.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16

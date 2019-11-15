@@ -1,0 +1,54 @@
+﻿Build started 12/19/2018 8:57:39 PM.
+     1>Project "C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Blood bank system\Blood bank system.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.12\Assemblies\v4.5\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Blood.cpp MenuOptions.cpp Welcome.cpp
+         Blood.cpp
+         MenuOptions.cpp
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(16): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(24): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(26): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Welcome.cpp
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\Welcome.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(16): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(24): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\nouman\documents\visual studio 2013\projects\blood bank system\blood bank system\MenuOptions.h(26): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Release\Blood bank system.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Bloodbank.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Blood.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.BloodbankManager.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Donation.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Employee.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.form1.resources /ASSEMBLYRESOURCE:"Release\Bloodbanksystem.Hospital Locations.resources" /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Hospital.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.MenuOptions.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Orders.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Person.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Receptionist.resources /ASSEMBLYRESOURCE:Release\Bloodbanksystem.Welcome.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Release\Blood bank system.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH "Release\Blood bank.obj"
+         Release\Blood.obj
+         Release\BloodbankManager.obj
+         Release\Donation.obj
+         Release\Employee.obj
+         Release\form1.obj
+         "Release\Hospital Locations.obj"
+         Release\Hospital.obj
+         Release\MenuOptions.obj
+         Release\Orders.obj
+         Release\Person.obj
+         Release\Receptionist.obj
+         Release\Welcome.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Release\Blood bank system.exe'
+     1>Done Building Project "C:\Users\Nouman\Documents\Visual Studio 2013\Projects\Blood bank system\Blood bank system\Blood bank system.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.29
