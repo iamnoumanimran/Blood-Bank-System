@@ -147,7 +147,7 @@ Connection with mysQl:
 	}
 	private: System::Void form1_Load(System::Object^  sender, System::EventArgs^  e) {
 	}
-			 //update event
+	
 private: System::Void button4_Click(System::Object^  sender, System::EventArgs^  e) {
 			 try{
 				 String^ info = "Server=127.0.0.1;Uid=root;Pwd=;Database=blood bank management system";
@@ -171,7 +171,7 @@ private: System::Void button4_Click(System::Object^  sender, System::EventArgs^ 
 			 }
 
 }
-		 //delete event handler
+
 private: System::Void button2_Click(System::Object^  sender, System::EventArgs^  e) {
 			 try{
 				 String^ info = "Server=127.0.0.1;Uid=root;Pwd=;Database=blood bank management system";
